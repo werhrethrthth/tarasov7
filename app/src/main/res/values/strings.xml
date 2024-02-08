@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tarasov7</string>
+    <string name="hi">Поздороваться</string>
+    <string name="count">Подсчитать</string>
+    <string name="imageknop" />
+    <string name="fotoknopka">Подсчитать</string>
+</resources>
